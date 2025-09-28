@@ -1,4 +1,4 @@
-###Cinematch
+<h1>Cinematch</h1>
 
 Sistem rekomendasi film berbasis website. Website ini menyediakan infomasi lengkap terkait film yang di cari beserta rekomendasi film serupa berdasarkan genrenya.
 Project ini merupakan project akhir berkelompok untuk matakuliah Artificial Intelligence.
